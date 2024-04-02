@@ -1,0 +1,52 @@
+<mxfile host="65bd71144e">
+    <diagram id="5pNVgJioLZ65702u9iHh" name="Page-1">
+        <mxGraphModel dx="891" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="170" y="170" width="500" height="500" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Spiller" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="388" y="585" width="51" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Enemy" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="210" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Enemy" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="290" y="210" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Enemy" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="378.5" y="210" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Enemy" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;size=20;" parent="1" vertex="1">
+                    <mxGeometry x="470" y="210" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Enemy" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="210" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Enemy" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="199" y="260" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Enemy" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="289" y="260" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Enemy" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="377.5" y="260" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Enemy" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="469" y="260" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Enemy" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="559" y="260" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="407.5" y="520" width="10" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Bullet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="414" y="515" width="60" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
